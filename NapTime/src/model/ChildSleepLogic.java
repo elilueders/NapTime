@@ -1,5 +1,6 @@
 package model;
 
+// by Eli Lueders
 public class ChildSleepLogic {
 	final private double MIN_NAP = 0.5;
 	final private double MAX_NAP = 1.5;
