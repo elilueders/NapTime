@@ -1,7 +1,7 @@
 package model;
 
+// by Eli Lueders
 public class Child {
-
 	private String name;
 	private double hoursAwake;
 	private double hoursUntilBedtime;
